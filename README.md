@@ -28,3 +28,16 @@ python bogosort.py
 ```
 
 > **Nota:** Bogosort es extremadamente lento con listas grandes. Se recomienda usar listas de máximo 5-7 elementos.
+
+## Ejemplo
+
+### Resolviendo
+
+<img width="800" height="575" alt="image" src="https://github.com/user-attachments/assets/c04433d9-0576-4abf-8df7-4575a95243e5" />
+
+
+<br><br>
+
+### Ya resuelto
+
+<img width="800" height="575" alt="image" src="https://github.com/user-attachments/assets/cb188cd7-a9c8-49fc-a597-fd322b0015ee" />
